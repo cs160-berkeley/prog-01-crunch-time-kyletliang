@@ -12,8 +12,8 @@ See [my demo video for Crunch Time!] (https://youtu.be/AKG2dHHEiDY)
 
 ## Screenshots
 
-<img src="screenshots/img1.png" height="400" alt="Screenshot"/>
-<img src="screenshots/img2.png" height="400" alt="Screenshot"/>
+<img src="screenshots/img1.PNG" height="400" alt="Screenshot"/>
+<img src="screenshots/img2.PNG" height="400" alt="Screenshot"/>
 
 ## Acknowledgments
 
