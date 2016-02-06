@@ -1,22 +1,23 @@
 # PROG 01: Crunch Time
 
-Briefly describe your app here.
+Crunch Time is a simple calorie burning conversion application that allows to see how many calories you burn by doing x amount of reps/min of certain exercises. You can also set a target calorie goal and see how many reps/min of exercises you need to do in order to achieve that goal. 
 
 ## Authors
 
-FirstName LastName ([your_email@berkeley.edu](mailto:your_email@berkeley.edu))
+Kyle Liang ([kyletliang@berkeley.edu](mailto:your_email@berkeley.edu))
 
 ## Demo Video
 
-See [your demo video title here] (https://link_to_your_video)
+See [my demo video for Crunch Time!] (https://youtu.be/AKG2dHHEiDY)
 
 ## Screenshots
 
-<img src="screenshots/main.png" height="400" alt="Screenshot"/>
+<img src="screenshots/img1.png" height="400" alt="Screenshot"/>
+<img src="screenshots/img2.png" height="400" alt="Screenshot"/>
 
 ## Acknowledgments
 
 * Hat tip to anyone who's code was used
+* Icons from flaticon.com
 * Any other support
 
-*Feel free to enhance your README. For Markdown syntax, see [the GitHub Guides](https://guides.github.com/features/mastering-markdown/). Remove this line in your submission.*
