@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Crunch Time</string>
+    <string name="action_settings">Settings</string>
+    <string name="rep_input_default">Enter value here </string>
+    <string name="button_calc">Calculate</string>
+    <string-array name="exercises">
+        <item>Calories</item>
+        <item>Push-ups</item>
+        <item>Sit-ups</item>
+        <item>Squats</item>
+        <item>Leg-lifts</item>
+        <item>Plank</item>
+        <item>Jumping Jacks</item>
+        <item>Pull-ups</item>
+        <item>Cycling</item>
+        <item>Walking</item>
+        <item>Jogging</item>
+        <item>Swimming</item>
+        <item>Stair-Climbing</item>
+    </string-array>
+</resources>
